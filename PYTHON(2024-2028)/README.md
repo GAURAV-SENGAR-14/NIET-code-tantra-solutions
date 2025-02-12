@@ -1,7 +1,7 @@
 ## This directory contains solutions of <b> Problem Solving using Python Lab - 2024-2028 </b>
 <br>
 
-<p align="center"><img width="896" alt="Screenshot 2022-11-04 at 6 01 59 PM" src="https://user-images.githubusercontent.com/110342305/199974044-56952b89-00a4-4d98-b2aa-d4ec19147a36.png"></p>
+<p align="center"><img width="896" alt="Screenshot 2022-11-04 at 6 01 59 PM" src=""></p>
 
 </br>
 <br><br>
